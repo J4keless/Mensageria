@@ -1,0 +1,4 @@
+fila criada: http://localhost:9324/000000000000/guias
+DLQ criada: http://localhost:9324/000000000000/guias-dlq (maxReceiveCount=3)
+VisibilityTimeout: 15
+RedrivePolicy: {"deadLetterTargetArn":"arn:aws:sqs:elasticmq:000000000000:guias-dlq","maxReceiveCount":3}

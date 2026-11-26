@@ -1,0 +1,3 @@
+guias {'ApproximateNumberOfMessages': '0', 'ApproximateNumberOfMessagesNotVisible': '0'}
+guias-dlq {'ApproximateNumberOfMessages': '1', 'ApproximateNumberOfMessagesNotVisible': '0'}
+na DLQ: ['{"hospital": "H-Recife"}']
